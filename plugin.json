@@ -1,0 +1,9 @@
+{
+    "id": "com.mattermost.webapp-rtl-ui",
+    "name": "Mattermost RTL UI",
+    "description": "Mattermost plugin to change UI into RTL.",
+    "version": "0.0.1",
+    "webapp": {
+        "bundle_path": "main.js"
+    }
+}
