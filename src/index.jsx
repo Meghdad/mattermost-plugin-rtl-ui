@@ -26,4 +26,4 @@ class RtlUiPlugin {
     }
 }
 
-window.registerPlugin('com.mattermost.webapp-rtl-ui', new RtlUiPlugin());
+window.registerPlugin('com.mattermost.webapp-plugin-rtl-ui', new RtlUiPlugin());

@@ -1,5 +1,5 @@
 {
-  "name": "mattermost-plugin-rtl-ui",
+  "name": "mattermost-webapp-plugin-rtl-ui",
   "version": "0.0.1",
   "description": "Mattermost plugin to change ui into rtl.",
   "main": "src/index.js",
