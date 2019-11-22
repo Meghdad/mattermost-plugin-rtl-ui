@@ -55,6 +55,7 @@ body {
     font-family: IRANSans;
 }
 
-.app__body.font--open_sans {
+.app__body.font--open_sans,
+.tooltip {
     font-family: IRANSans;
 }
